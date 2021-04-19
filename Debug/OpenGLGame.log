@@ -1,0 +1,20 @@
+﻿  main.cpp
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(82,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(82,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(85,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(85,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(88,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(88,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(91,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(91,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(94,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(94,18): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(102,28): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(103,28): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(106,29): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(107,29): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(110,23): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(120,33): warning C4305:  'argument': truncation from 'double' to 'GLclampf'
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(212,34): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\OpenGLGame\main.cpp(218,35): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  OpenGLGame.vcxproj -> D:\Users\micha\source\repos\OpenGLGame\Debug\OpenGLGame.exe
